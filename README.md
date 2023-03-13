@@ -1,17 +1,25 @@
-### SIEMA
+# SIEMA
 
-<!--
-**blokzz/blokzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![sss](https://user-images.githubusercontent.com/125974589/224840276-51c887ad-36fa-45b7-bd5d-093eb4a2e591.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![sdasd](https://user-images.githubusercontent.com/125974589/224840420-f884f05e-75ac-4475-80fe-0964d5808c44.png)
