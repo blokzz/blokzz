@@ -11,65 +11,56 @@
 
    
    ## My Projects
-   <table class="width:100%">
+   
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        .col1 {
+            width: 15%;
+        }
+        .col2 {
+            width: 25%;
+        }
+        .col3 {
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+    <table>
         <thead>
             <tr>
-                <th class="width:15%">Name</th>
-                <th class="width:25%">Technologies</th>
-                <th class="width:60%">Description</th>
+                <th class="col1">Name</th>
+                <th class="col2">Technologies</th>
+                <th class="col3">Description</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="col1">API Countries</td>
-                <td class="col2">1.2</td>
-                <td class="col3">1.3</td>
+                <td class="col1">John Doe</td>
+                <td class="col2">HTML, CSS, JavaScript</td>
+                <td class="col3">Front-end developer with 5 years of experience.</td>
             </tr>
             <tr>
-                <td class="col1">2.1</td>
-                <td class="col2">2.2</td>
-                <td class="col3">2.3</td>
+                <td class="col1">Jane Smith</td>
+                <td class="col2">Python, Django</td>
+                <td class="col3">Back-end developer specializing in Python and Django.</td>
             </tr>
-            <tr>
-                <td class="col1">3.1</td>
-                <td class="col2">3.2</td>
-                <td class="col3">3.3</td>
-            </tr>
-            <tr>
-                <td class="col1">4.1</td>
-                <td class="col2">4.2</td>
-                <td class="col3">4.3</td>
-            </tr>
-            <tr>
-                <td class="col1">5.1</td>
-                <td class="col2">5.2</td>
-                <td class="col3">5.3</td>
-            </tr>
-            <tr>
-                <td class="col1">6.1</td>
-                <td class="col2">6.2</td>
-                <td class="col3">6.3</td>
-            </tr>
-            <tr>
-                <td class="col1">7.1</td>
-                <td class="col2">7.2</td>
-                <td class="col3">7.3</td>
-            </tr>
-            <tr>
-                <td class="col1">8.1</td>
-                <td class="col2">8.2</td>
-                <td class="col3">8.3</td>
-            </tr>
-            <tr>
-                <td class="col1">9.1</td>
-                <td class="col2">9.2</td>
-                <td class="col3">9.3</td>
-            </tr>
-            <tr>
-                <td class="col1">10.1</td>
-                <td class="col2">10.2</td>
-                <td class="col3">10.3</td>
-            </tr>
+            <!-- Dodaj kolejne wiersze według potrzeb -->
         </tbody>
     </table>
+</body>
+</html>
 </div>
