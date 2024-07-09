@@ -16,27 +16,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabela</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        .col1 {
-            width: 15%;
-        }
-        .col2 {
-            width: 25%;
-        }
-        .col3 {
-            width: 60%;
-        }
-    </style>
 </head>
 <body>
     <table>
@@ -49,16 +28,16 @@
         </thead>
         <tbody>
             <tr>
-                <td class="col1">John Doe</td>
+                <td class="col1">Api Countries</td>
                 <td class="col2">HTML, CSS, JavaScript</td>
-                <td class="col3">Front-end developer with 5 years of experience.</td>
+                <td class="col3">x</td>
             </tr>
             <tr>
-                <td class="col1">Jane Smith</td>
+                <td class="col1">Image to text</td>
                 <td class="col2">Python, Django</td>
-                <td class="col3">Back-end developer specializing in Python and Django.</td>
+                <td class="col3"></td>
             </tr>
-            <!-- Dodaj kolejne wiersze według potrzeb -->
+            
         </tbody>
     </table>
 </body>
