@@ -11,8 +11,26 @@
 
    
    ## My Projects
-
-   
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        .col1 {
+            width: 10%;
+        }
+        .col2 {
+            width: 20%;
+        }
+        .col3 {
+            width: 70%;
+        }
+    </style>
    <table class="width:100%">
         <thead>
             <tr>
