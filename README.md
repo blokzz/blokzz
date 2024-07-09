@@ -18,5 +18,6 @@
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/blokzz/api-countries">API countries</a>                        | HTML , CSS , JavaScript                                        | Simple page from front-end mentor , containing all countries from api also including darkmode.    |
 | <a href="https://github.com/blokzz/Tesseract">Image to text</a>                            | HTML , CSS , JavaScript , Tesseract                            | Image to text converter using Tesseract library . Currently including three languages ( Japanese , English , German) |
+| <a href="https://github.com/blokzz/Pomodoro">Pomodoro</a>                                  | HTML , CSS , JavaScript                                        | Pomodoro timer with three modes (customizable) and simple task managing funtion.                   |
 </div>
 
