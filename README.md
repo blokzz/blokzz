@@ -16,8 +16,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-     <style>
+       <style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -37,6 +36,7 @@
             width: 60%;
         }
     </style>
+</head>
 <body>
     <table>
         <thead>
