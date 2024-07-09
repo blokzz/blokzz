@@ -17,6 +17,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+     <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        .col1 {
+            width: 15%;
+        }
+        .col2 {
+            width: 25%;
+        }
+        .col3 {
+            width: 60%;
+        }
+    </style>
 <body>
     <table>
         <thead>
@@ -37,7 +57,6 @@
                 <td class="col2">Python, Django</td>
                 <td class="col3"></td>
             </tr>
-            
         </tbody>
     </table>
 </body>
