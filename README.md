@@ -12,8 +12,8 @@
 <br/>
 
 ## My Projects
-
-<table width="100%" display="inherit">
+<div style="display:flex ; width:100%">
+<table width="100%" display="flex">
   <thead>
     <tr>
       <th style="width: 15%;">Name</th>
@@ -34,3 +34,4 @@
     </tr>
   </tbody>
 </table>
+</div>
