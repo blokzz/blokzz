@@ -16,7 +16,7 @@
 ## My Projects
 | Project name                                                                               | Technologies                                                   | Description                                                                                       |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <a href="">API countries</a>                                                               | HTML , CSS , JavaScript                                        | Simple page from front-end mentor , containing all countries from api also including darkmode.    |
-| <a href="">Image to text</a>                                                               | HTML , CSS , JavaScript , Tesseract                            | Image to text converter using Tesseract library . Currently including three languages (Japanese,English,German) |
+| <a href="https://github.com/blokzz/api-countries">API countries</a>                        | HTML , CSS , JavaScript                                        | Simple page from front-end mentor , containing all countries from api also including darkmode.    |
+| <a href="https://github.com/blokzz/Tesseract">Image to text</a>                            | HTML , CSS , JavaScript , Tesseract                            | Image to text converter using Tesseract library . Currently including three languages ( Japanese , English , German) |
 </div>
 
