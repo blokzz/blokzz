@@ -12,9 +12,9 @@
     <table width=100>
         <thead>
             <tr>
-                <th class="col1">Name</th>
-                <th class="col2">Technologies</th>
-                <th class="col3">Description</th>
+                <th width=15>Name</th>
+                <th width=25>Technologies</th>
+                <th width=60>Description</th>
             </tr>
         </thead>
         <tbody>
