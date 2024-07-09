@@ -13,8 +13,8 @@
 <br/>
 
 ## My Projects
-| Project name                                                                               | Description                                                    | Technologies used                                                                                 |
+| Project name                                                                               | Technologies                                                   | Description                                                                                       |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <a href="">API countries</a>                                                               | aaaa                                                           | xd                                                                                                |
+| <a href="">API countries</a>                                                               | HTML , CSS , JavaScript                                        | Simple page from front-end mentor , containing all countries from api                             |
 </div>
 
