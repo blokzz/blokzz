@@ -1,3 +1,4 @@
+
 # Welcome to my Profile!
 
 ## Technologies that I use
@@ -12,26 +13,8 @@
 <br/>
 
 ## My Projects
-<div style="display:flex ; width:100%">
-<table width="100%" display="flex">
-  <thead>
-    <tr>
-      <th style="width: 15%;">Name</th>
-      <th style="width: 25%;">Technologies</th>
-      <th style="width: 60%;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Api Countries</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>C</td>
-    </tr>
-    <tr>
-      <td>Image to text</td>
-      <td>Python, Django</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Project name                                                                               | Description                                                    | Technologies used                                                                                 |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| <a href="">API countries</a>                                                               | aaaa                                                           | xd                                                                                                |
 </div>
+
