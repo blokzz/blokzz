@@ -1,7 +1,7 @@
 
 # Welcome to my Profile!
 
-## Technologies that I use                                                                                                                                                                                                                                     xd
+## Technologies that I use                                                                                                                                                                                                                                     
 
 <br/>
 <div width="100%">
