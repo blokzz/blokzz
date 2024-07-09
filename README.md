@@ -13,7 +13,7 @@
 
 ## My Projects
 
-<table width="100%" style="display:inherit">
+<table width="100%" display="inherit">
   <thead>
     <tr>
       <th style="width: 15%;">Name</th>
