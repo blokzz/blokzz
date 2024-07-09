@@ -3,42 +3,13 @@
 ## Technologies that i use
 
 <br/>
-<div class="width:100%" >
+<div width=100 >
 <img height=80  src='https://user-images.githubusercontent.com/125974589/224845400-7f32f10f-c890-4173-b737-975e8ef0eb6a.png'>
 <img height=80 src='https://user-images.githubusercontent.com/125974589/224845892-84c992f3-fe94-44ee-81d3-10e4260693a7.png'>
 <img height=80 src='https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png'>
    <br/>
-
-   
    ## My Projects
-   
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        .col1 {
-            width: 15%;
-        }
-        .col2 {
-            width: 25%;
-        }
-        .col3 {
-            width: 60%;
-        }
-    </style>
-</head>
-<body>
-    <table>
+    <table width=100>
         <thead>
             <tr>
                 <th class="col1">Name</th>
@@ -59,6 +30,4 @@
             </tr>
         </tbody>
     </table>
-</body>
-</html>
 </div>
