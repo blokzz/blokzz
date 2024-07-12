@@ -1,8 +1,12 @@
 
 # Welcome to my Profile!
-
-## Technologies that I use                                                                                                                                                                                                                                     
-
+<br>
+##Languages
+  <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/National_Flag_of_Poland.png">
+  <img height="80" src="https://th.bing.com/th/id/R.4538343121bbbdb4567f4f84939d7cf7?rik=tXYzzosmKWjTsw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-MpEVFMYWmoU%2fUPJ_zq9m_jI%2fAAAAAAAAFR8%2fEbVMdTciKlo%2fs1600%2fFlag_great_britain%2bhd%2bwallpapers.png&ehk=DXo8k4GW5AE7YFGJMEvhNKMKPb7k%2bF2eAXDgGVJttBQ%3d&risl=&pid=ImgRaw&r=0">
+  <img height="80" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png">
+  <img height="80" src="https://th.bing.com/th/id/OIP.Zj6tCyQ1eqJENG9IXEH-1QHaEc?rs=1&pid=ImgDetMain">
+## Technologies that I use                                                                                                                                                                                                                              
 <br/>
 <div width="100%">
   <img height="80" src="https://user-images.githubusercontent.com/125974589/224845400-7f32f10f-c890-4173-b737-975e8ef0eb6a.png">
