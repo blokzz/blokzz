@@ -3,7 +3,6 @@
 ### Languages
   <div width="100%">
   <img height="20" style="border:black solid 2px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/National_Flag_of_Poland.png">
-  <img height="20" style="border:black solid 2px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
   <img height="20" style="border:black solid 2px" src="https://th.bing.com/th/id/R.4538343121bbbdb4567f4f84939d7cf7?rik=tXYzzosmKWjTsw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-MpEVFMYWmoU%2fUPJ_zq9m_jI%2fAAAAAAAAFR8%2fEbVMdTciKlo%2fs1600%2fFlag_great_britain%2bhd%2bwallpapers.png&ehk=DXo8k4GW5AE7YFGJMEvhNKMKPb7k%2bF2eAXDgGVJttBQ%3d&risl=&pid=ImgRaw&r=0">
   <img height="20" style="border:black solid 2px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png">
   <img height="20" style="border:black solid 2px;border-radius:100%" src="https://th.bing.com/th/id/OIP.Zj6tCyQ1eqJENG9IXEH-1QHaEc?rs=1&pid=ImgDetMain">
@@ -13,6 +12,7 @@
 <br/>
 <div width="100%">
   <img height="80" src="https://user-images.githubusercontent.com/125974589/224845400-7f32f10f-c890-4173-b737-975e8ef0eb6a.png">
+  <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
   <img height="80" src="https://user-images.githubusercontent.com/125974589/224845892-84c992f3-fe94-44ee-81d3-10e4260693a7.png">
   <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
   <img height="80" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
