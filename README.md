@@ -17,6 +17,7 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
   <img height="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png">
+  <img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png](https://cdn.worldvectorlogo.com/logos/java.svg)">
 </div>
 
 <br/>
