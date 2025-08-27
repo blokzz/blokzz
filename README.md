@@ -32,4 +32,3 @@
 | <a href="https://github.com/blokzz/Jpdb-extension">JPDB-extension        </a>                      | HTML , CSS , JavaScript                                        | An extension to jpdb site that shows jlpt level of the words using Jisho Api. Based on the jlpt level, the word will be highlighted in diffrent color. |
 | <a href="https://github.com/blokzz/GameQuiz">GameQuiz       </a>                      | Nextjs , Typescript , Tailwind                                        |A card-like quiz for two players and one game master , consisting of 25 cells with questions and points for each level.  |
 </div>
-
