@@ -11,14 +11,24 @@
 <br/>
 <div width="100%">
   <img height="40" src="https://user-images.githubusercontent.com/125974589/224845400-7f32f10f-c890-4173-b737-975e8ef0eb6a.png">
+  
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+  
   <img height="40" src="https://user-images.githubusercontent.com/125974589/224845892-84c992f3-fe94-44ee-81d3-10e4260693a7.png">
   <img height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
+  
   <img height="40" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000">
+  
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
+  
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png">
+  
   <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png">
+  
+  <img height="40" src="https://www.svgrepo.com/show/354210/prisma.svg">
+  
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png">
+  
 </div>
 
 <br/>
