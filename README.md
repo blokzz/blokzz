@@ -1,45 +1,53 @@
+# Hi, I'm blokzz! 👋
 
-# Welcome to my Profile!
-### Languages
-  <div width="100%">
-  <img height="20" style="border:black solid 2px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/National_Flag_of_Poland.png">
-  <img height="20" style="border:black solid 2px" src="https://th.bing.com/th/id/R.4538343121bbbdb4567f4f84939d7cf7?rik=tXYzzosmKWjTsw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-MpEVFMYWmoU%2fUPJ_zq9m_jI%2fAAAAAAAAFR8%2fEbVMdTciKlo%2fs1600%2fFlag_great_britain%2bhd%2bwallpapers.png&ehk=DXo8k4GW5AE7YFGJMEvhNKMKPb7k%2bF2eAXDgGVJttBQ%3d&risl=&pid=ImgRaw&r=0">
-  <img height="20" style="border:black solid 2px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png">
-  </div>
-  
-## Technologies that I use                                                                                                                                                                                                                              
-<br/>
-<div width="100%">
-  <img height="40" src="https://user-images.githubusercontent.com/125974589/224845400-7f32f10f-c890-4173-b737-975e8ef0eb6a.png">
-  
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
-  
-  <img height="40" src="https://user-images.githubusercontent.com/125974589/224845892-84c992f3-fe94-44ee-81d3-10e4260693a7.png">
-  
-  <img height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
-  
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
-  
-  <img height="40" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png">
-  
-  <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png">
-  
-  <img height="40" src="https://www.svgrepo.com/show/354210/prisma.svg">
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Fullstack+Developer+in+training;Cloud+%26+DSA+Enthusiast;Language+Learner+(PL%2FENG%2FJP)" alt="Typing SVG" />
+</p>
 
-  <img height="40" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000">
-  
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png">
-  
-</div>
+### 🌍 Languages
+<p align="left">
+  <img height="20" style="border:black solid 1px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/National_Flag_of_Poland.png" alt="Polish"> &nbsp;
+  <img height="20" style="border:black solid 1px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English"> &nbsp;
+  <img height="20" style="border:black solid 1px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" alt="Japanese">
+</p>
 
-<br/>
+---
 
-## My Projects
-| Project Name                                                                               | Technologies                                                   | Description                                                                                       |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/blokzz/api-countries">API Countries page      </a>                      | HTML , CSS , JavaScript                                        | Simple beginner javascript project from front-end mentor. It displays  basic informations about countries (flag , population , capital) using CountriesAPI    |
-| <a href="https://github.com/blokzz/Tesseract">Image to text        </a>                         | HTML , CSS , JavaScript , Tesseract                            | Image to text converter using Tesseract library . Currently including three languages ( Japanese , English , German) |
-| <a href="https://github.com/blokzz/Pomodoro">Pomodoro</a>                                  | HTML , CSS , JavaScript                                        | Pomodoro timer with three modes (customizable) and simple task managing function.                   |
-| <a href="https://github.com/blokzz/Jpdb-extension">JPDB-extension        </a>                      | HTML , CSS , JavaScript                                        | An extension to jpdb site that shows jlpt level of the words using Jisho Api. Based on the jlpt level, the word will be highlighted in different color. |
-| <a href="https://github.com/blokzz/GameQuiz">GameQuiz       </a>                      | Nextjs , Typescript , Tailwind                                        |A card-like quiz for two players and one game master , consisting of 25 cells with questions and points for each level.  |
-</div>
+### 🛠️ Technologies & Tools
+
+**Frontend & Logic**
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project Name | Technologies | Description |
+| :--- | :--- | :--- |
+| 🧩 **[DSA Maze Pathfinding](https://github.com/blokzz/DSA-maze)** | Python, Tkinter | University project visualizing DFS, Kruskal, Prim algorithms with a state-based pathfinding logic (item collection). |
+| 👁️ **[Image to Text (Tesseract)](https://github.com/blokzz/Tesseract)** | JS, Tesseract.js | OCR converter supporting Japanese, English, and German. |
+| 🇯🇵 **[JPDB Extension](https://github.com/blokzz/Jpdb-extension)** | JS, Jisho API | Browser extension that highlights words by JLPT level on the jpdb.io site. |
+| 🎮 **[GameQuiz](https://github.com/blokzz/GameQuiz)** | Next.js, TS, Tailwind | A 2-player local quiz game with a "Game Master" interface. |
+
+---
+
+### 📊 My Stats
+
+<p align="left">
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=blokzz&theme=tokyonight" alt="blokzz's streak stats" />
+</p>
+
