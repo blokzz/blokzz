@@ -33,7 +33,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project Name | Technologies | Description |
@@ -42,6 +41,7 @@
 | 👁️ **[Image to Text (Tesseract)](https://github.com/blokzz/Tesseract)** | JS, Tesseract.js | OCR converter supporting Japanese, English, and German. |
 | 🇯🇵 **[JPDB Extension](https://github.com/blokzz/Jpdb-extension)** | JS, Jisho API | Browser extension that highlights words by JLPT level on the jpdb.io site. |
 | 🎮 **[GameQuiz](https://github.com/blokzz/GameQuiz)** | Next.js, TS, Tailwind | A 2-player local quiz game with a "Game Master" interface. |
+| 📐 **[PyBroker](https://github.com/blokzz/PyBroker)** | Python , asyncio , struct | Minimalist message broker operating directly on raw TCP sockets with a custom-designed binary protocol. |
 
 ---
 
