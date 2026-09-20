@@ -41,9 +41,9 @@ CS student building software at the intersection of **AI Engineering**, **cloud 
 | :--- | :--- | :--- |
 | 📐 **[PyBroker](https://github.com/blokzz/PyBroker)** | Python, asyncio | Message broker on raw TCP sockets — custom binary protocol, async pub/sub. No dependencies. |
 | 👁️ **[Programdle](https://github.com/blokzz/Programdle)** | NextJs, Prisma, TS, Tailwind | Worlde clone but for programming languages. [🔗 Live](https://programdle.vercel.app)|
-| 🇯🇵 **[JPDB Extension](https://github.com/blokzz/Jpdb-extension)** | JS, Jisho API | Chrome extension highlighting Japanese words by JLPT level on jpdb.io. |
+| 🇯🇵 **[NihongoCards](https://github.com/blokzz/NihongoCards)** | ReactJs, TS, Tauri, Zustand | Personal desktop flashcard app for Japanese — with real spaced repetition (FSRS) and optional AI-powered card generation.  |
 | 🧩 **[DSA Maze](https://github.com/blokzz/DSA-maze)** | Python, Tkinter | Interactive visualizer for graph algorithms (DFS, A*, Kruskal MST, Prim) with state-dependent pathfinding. |
-| 🤖 **[MCP Obsidian](https://github.com/blokzz/MCP_Obsidian)** | Python, MCP | Model Context Protocol server exposing my Obsidian vault to Claude - with semantic search via embeddings. |
+| 🤖 **[Japanese RAG](https://github.com/blokzz/JapaneseAnalyzer)** | Python, FastAPI, Neo4j | GraphRAG backend for learning Japanese with LLM analyze. |
 
 ---
 
